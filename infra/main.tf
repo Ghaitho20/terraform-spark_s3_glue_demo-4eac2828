@@ -12,7 +12,7 @@ terraform {
     encrypt        = true
   }
 }
-hello
+hellohi 
 
 terraform {
   required_version = ">= 1.5.0"
