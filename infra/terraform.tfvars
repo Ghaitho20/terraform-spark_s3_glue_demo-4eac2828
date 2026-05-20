@@ -1,0 +1,6 @@
+aws_region                      = "us-east-1"
+glue_scripts_bucket_base_name    = "glue-scripts"
+pipeline_output_bucket_base_name = "pipeline-output"
+glue_job_role_base_name          = "glue-job-role"
+glue_job_base_name               = "api-to-s3-job"
+api_source_url                   = "https://api.example.com/data"
