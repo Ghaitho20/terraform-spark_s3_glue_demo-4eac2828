@@ -11,7 +11,7 @@ terraform {
     dynamodb_table = "tflock-spark-s3-glue-demo-ec5j706i"
     encrypt        = true
   }
-}
+}zg
 hellohihi hi jzkgzrgzrgzrg
 
 terraform {
